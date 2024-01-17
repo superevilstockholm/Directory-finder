@@ -18,7 +18,7 @@
     git clone https://github.com/adit624/Directory-finder
     ```
     ```bash
-    cd Directory-Finder
+    cd Directory-finder
     ```
 3. Install dependensi:
 
