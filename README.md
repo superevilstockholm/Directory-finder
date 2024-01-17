@@ -29,7 +29,7 @@
 4. Jalankan alat dengan parameter yang diinginkan:
 
     ```bash
-    python3 pencari_direktori.py -u [url_target] -t [timeout] -l [path_wordlist] -s [nama_file_simpan] -v -th [threads] -p [proxy]
+    python3 brute.py -u [url_target] -t [timeout] -l [path_wordlist] -s [nama_file_simpan] -v -th [threads] -p [proxy]
     ```
 
 ## Penggunaan
