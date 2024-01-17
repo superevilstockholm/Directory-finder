@@ -15,19 +15,21 @@
 1. Clone repository:
 
     ```bash
-    hhh
+    git clone https://github.com/adit624/Directory-finder
     ```
-
-2. Install dependensi:
+    ```bash
+    cd Directory-Finder
+    ```
+3. Install dependensi:
 
     ```bash
-    hhhh
+    pip install -r requirements.txt
     ```
 
-3. Jalankan alat dengan parameter yang diinginkan:
+4. Jalankan alat dengan parameter yang diinginkan:
 
     ```bash
-    python pencari_direktori.py -u [url_target] -t [timeout] -l [path_wordlist] -s [nama_file_simpan] -v -th [threads] -p [proxy]
+    python3 pencari_direktori.py -u [url_target] -t [timeout] -l [path_wordlist] -s [nama_file_simpan] -v -th [threads] -p [proxy]
     ```
 
 ## Penggunaan
